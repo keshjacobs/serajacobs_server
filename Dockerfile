@@ -1,3 +1,3 @@
 FROM nginx
 COPY ./default.conf /etc/nginx/conf.d/
-EXPOSE 442
+EXPOSE 443
